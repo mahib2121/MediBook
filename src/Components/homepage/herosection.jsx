@@ -55,7 +55,7 @@ export default function Hero() {
                     <Image
                         src={heroImg}
                         alt="Modern hospital"
-                        width={600}
+                        width={700}
                         height={400}
                         className="relative w-full rounded-3xl object-cover shadow-lg"
                         priority

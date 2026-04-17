@@ -1,0 +1,54 @@
+{
+    "doctors": [
+        {
+            "id": 1,
+            "name": "Dr. Sarah Johnson",
+            "specialization": "Cardiology",
+            "email": "sarah.johnson@hospital.com",
+            "phone": "+1-555-0101",
+            "experience": 12,
+            "rating": 4.8,
+            "image": "https://i.ibb.co/vC6040Gp/doctor-1.jpg",
+            "available": true,
+            "fee": 150
+        },
+        {
+            "id": 2,
+            "name": "Dr. Michael Chen",
+            "specialization": "Neurology",
+            "email": "michael.chen@hospital.com",
+            "phone": "+1-555-0102",
+            "experience": 8,
+            "rating": 4.6,
+            "image": "https://i.ibb.co/RptmxMxr/doctor-2.jpg",
+            "available": true,
+            "fee": 120
+        },
+        {
+            "id": 3,
+            "name": "Dr. Emily Rodriguez",
+            "specialization": "Dermatology",
+            "email": "emily.rodriguez@hospital.com",
+            "phone": "+1-555-0103",
+            "experience": 10,
+            "rating": 4.9,
+            "image": "https://i.ibb.co/Kp803Pyw/doctor-3.jpg",
+            "available": false,
+            "fee": 100
+        },
+        {
+            "id": 4,
+            "name": "Dr. James Wilson",
+            "specialization": "Orthopedics",
+            "email": "james.wilson@hospital.com",
+            "phone": "+1-555-0104",
+            "experience": 15,
+            "rating": 4.7,
+            "image": "https://i.ibb.co/ZzYSKGtN/doctor-4.jpg",
+            "available": true,
+            "fee": 140
+        }
+    ]
+}
+
+
