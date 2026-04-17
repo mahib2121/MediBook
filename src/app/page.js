@@ -1,6 +1,7 @@
 import Header from "@/Components/homepage/header";
 import Hero from "@/Components/homepage/herosection";
 import { Specialties } from "@/Components/homepage/Specialties";
+import TopDoctor from "@/Components/homepage/topdoctor";
 import Image from "next/image";
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
       <Header />
       <Hero></Hero>
       <Specialties></Specialties>
+      <TopDoctor></TopDoctor>
     </>
 
   );
