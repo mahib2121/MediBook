@@ -28,7 +28,7 @@ export default function Header() {
                     </a>
                 </nav>
 
-                <Button size="sm" className="shadow-[var(--shadow-card)]">
+                <Button size="sm" className="shadow-(--shadow-card)">
                     Sign In
                 </Button>
             </div>
