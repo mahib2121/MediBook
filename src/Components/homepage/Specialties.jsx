@@ -22,7 +22,7 @@ export function Specialties() {
                 {items.map(({ icon: Icon, label }) => (
                     <button
                         key={label}
-                        className="group flex flex-col items-center gap-3 rounded-2xl border border-border bg-card p-5 shadow-[var(--shadow-card)] transition-all hover:-translate-y-0.5 hover:border-primary/40"
+                        className="group flex flex-col items-center gap-3 rounded-2xl border border-border bg-card p-5 shadow-(--shadow-card) transition-all hover:-translate-y-0.5 hover:border-primary/40"
                     >
                         <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-primary/10 text-primary transition-colors group-hover:bg-primary group-hover:text-primary-foreground">
                             <Icon className="h-6 w-6" />
